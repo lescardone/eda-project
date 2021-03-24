@@ -2,4 +2,5 @@
 *.db
 *.csv
 *.sqbpro
+.DS_Store
 /data
