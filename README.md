@@ -67,7 +67,7 @@ DESC     = Represent the "REGULAR" scheduled audit event (Normally occurs every 
 *Are you planning in advance to need or use additional tools beyond those required?*
 - No, not at the moment.
 
-### MVP Goal:
+## MVP Goal:
 *What would a minimum viable product (MVP) look like for this project?*
 - Show steps taken to clean database/database is 'clean' to what extent?
 - Visualizations:
