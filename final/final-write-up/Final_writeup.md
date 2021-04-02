@@ -1,5 +1,4 @@
 # **MTA REPAIRS AND RENOVATIONS**
---------
 Leslie Cardone  
 April 1, 2021  
 Metis: Exploratory Data Analysis
@@ -94,8 +93,16 @@ Because we are only looking into five specific stations for this analysis, we do
 ## COMMUNICATION
 *VISUALIZATIONS*
 1. FEB-JUNE, TOTAL VOLUME PER DAY PER STATION
+
+
 ![image](./per_month_allstations_volumebydate.jpg)
+
+
 2. FEB-JUNE, VOLUME FOR DAY OF WEEK FOR JUNCTION STATION
+
+
 ![image](./junction_st_volumebydow.jpg)
+
+
 3. FEB-JUNE, VOLUME FOR DAY OF WEEK FOR METS-WILLETS POINT STATION
 ![image](./mets_willets_st_volumebydow.jpg)
