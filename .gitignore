@@ -2,5 +2,6 @@
 *.db
 *.csv
 *.sqbpro
+**/*.ipynb_checkpoints/
 .DS_Store
 /data
